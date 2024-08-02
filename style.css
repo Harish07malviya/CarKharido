@@ -111,18 +111,18 @@ header .fa-bars{
     display: flex;
     align-items: center;
     min-height: 100vh;
-    background:url(./images/pexels-scosche-1149056.jpg) no-repeat;
+    background:url(./images/plant_home.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
 
 .home .content{
-    max-width: 50rem;
+    max-width: 60rem;
 }
 
 .home .content h3{
     font-size: 6rem;
-    color:#333;
+    color: #dcdcdc;
 }
 
 .home .content span{
